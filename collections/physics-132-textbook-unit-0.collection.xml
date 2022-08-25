@@ -1,53 +1,21 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="UMass Physics">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col25685</md:content-id>
-  <md:title>Introduction to Physics 132</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>b3a3eab9-0282-4b74-a1ba-e95217a2278a</md:uuid>
-<md:slug>physics-132-textbook-unit-0</md:slug>
-</metadata>
-
+    <md:content-id>col25685</md:content-id>
+    <md:title>Introduction to Physics 132</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>b3a3eab9-0282-4b74-a1ba-e95217a2278a</md:uuid>
+    <md:slug>physics-132-textbook-unit-0</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Welcome to Physics 132</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m68376"/>
-        
-      
-    
-    
-      <col:module document="m68377"/>
-        
-      
-    
-    
-      <col:module document="m68378"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Welcome to Physics 132</md:title>
+      <col:content>
+        <col:module document="m68376"/>
+        <col:module document="m68377"/>
+        <col:module document="m68378"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
